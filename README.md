@@ -1,7 +1,9 @@
 # sticky-notes
 React JS App where users can create and organize sticky notes.
 
-![Screenshot](screenshot.png)
+[![Screenshot](screenshot.png)](https://megancoyle.github.io/sticky-notes/)
+
+[Checkout the application](https://megancoyle.github.io/sticky-notes/)
 
 ## Technologies Used
 * [React JS](https://facebook.github.io/react/)
